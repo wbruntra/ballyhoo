@@ -8,6 +8,9 @@ function App() {
         <p>No more tomfoolery.</p>
         <p>No more ballyhoo.</p>
       </header>
+      <div className="foot right-align">
+        <p>Created by William Bruntrager</p>
+      </div>
     </div>
   )
 }
