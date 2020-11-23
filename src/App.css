@@ -9,7 +9,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: 2.2em;
+  font-size: calc(16px + 2vmin);
   color: white;
 }
 
@@ -20,7 +20,7 @@
   width: 100%;
   color: white;
   text-align: right;
-  font-size: 1.2em;
+  font-size: calc(4px + 2vmin);
 }
 
 .foot p {
